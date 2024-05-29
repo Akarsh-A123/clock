@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.cloc h1{
+    font-size: 200px ;
+    font-family: "Orbitron", sans-serif;
+    color:red
+}
